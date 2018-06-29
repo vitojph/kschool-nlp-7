@@ -42,6 +42,10 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) held at
 
 - Chris Manning and Hinrich Schütze, [Foundations of Statistical Natural Language Processing](http://www-nlp.stanford.edu/fsnlp/)
 
+- Emily Bender. [Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax](https://www.amazon.com/Linguistic-Fundamentals-Natural-Language-Processing/dp/1627050116)
+
+- Jacob Einstein. [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
 - Steven Bird, Ewan Klein, and Edward Loper. [Natural Language Processing with Python](http://www.nltk.org/book/)
 
 - Jacob Perkins. [Python 3 Text Processing with NLTK 3 Cookbook](https://www.packtpub.com/application-development/python-3-text-processing-nltk-3-cookbook)
@@ -58,6 +62,8 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) held at
 
 
 ## Resources
+
+- [TurorialBank: Learning NLP Made Easier](https://alex-fabbri.github.io/TutorialBank/)
 
 - [Awesome NLP](https://github.com/keon/awesome-nlp)
 
